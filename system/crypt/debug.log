@@ -1,0 +1,21 @@
+[1126/153056.059:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1126/153101.672:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1126/153112.730:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1126/153122.956:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1126/153129.605:INFO:gpu_process_host.cc(941)] [XWEB_LOG_GPU]  GPU process laucnched multi-process mode SUCCESS!!! gpu-process-pid:8268 gpu-process-sandbox:1
+[1126/153129.638:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1126/153136.115:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1126/153136.288:INFO:gpu_process_host.cc(941)] [XWEB_LOG_GPU]  GPU process laucnched multi-process mode SUCCESS!!! gpu-process-pid:19960 gpu-process-sandbox:1
+[1126/153137.152:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1126/153150.786:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1126/153150.959:INFO:gpu_process_host.cc(941)] [XWEB_LOG_GPU]  GPU process laucnched multi-process mode SUCCESS!!! gpu-process-pid:7040 gpu-process-sandbox:1
+[1126/153152.403:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1126/153204.914:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[1126/153216.726:INFO:child_thread_impl.cc(831)] ChildThreadImpl::EnsureConnected()
+[1126/153216.726:INFO:child_thread_impl.cc(831)] ChildThreadImpl::EnsureConnected()
+[1126/153353.647:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1126/155046.067:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1126/155046.640:INFO:gpu_process_host.cc(941)] [XWEB_LOG_GPU]  GPU process laucnched multi-process mode SUCCESS!!! gpu-process-pid:16368 gpu-process-sandbox:1
+[1126/155048.017:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1126/155058.801:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[1126/155247.025:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
